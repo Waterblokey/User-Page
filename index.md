@@ -28,6 +28,9 @@ The top 3 things I like about programming are
 2. Learning New Things
 3. Collaborating with Likeminded Individs
 
+I enjoy it, so I often look like this:
+![Guy who really enjoys programming](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fhandsome-computer-guy-surprised-young-man-in-suit-sitting-at-computer%2F205800266&psig=AOvVaw2TfraeETbv4PIZ3RSteonZ&ust=1712256184996000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiE9MHZpoUDFQAAAAAdAAAAABAK)
+
 I have other interest too, like:
 
 * Climbing
@@ -39,3 +42,5 @@ Here are some tasks for you to complete:
 - [x] Read this page
 - [x] Click the links
 - [ ] Have a great day
+
+
