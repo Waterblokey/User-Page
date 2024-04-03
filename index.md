@@ -27,7 +27,10 @@ git push --set-upstream origin add-read-me
 The top 3 things I like about programming are
 1. Problem Solving
 2. Learning New Things
-3. Collaborating with Likeminded Individs
+3. Collaborating with Likeminded Individuals
+
+   ![image](https://github.com/Waterblokey/User-Page/assets/118576768/3283432d-f7f3-4b21-a2d9-4553a68104b0)
+
 
 I enjoy it, so I often look like this:
 ![Guy who really enjoys programming](pexels-andrea-piacquadio-3765030.jpg)
