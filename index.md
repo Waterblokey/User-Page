@@ -32,3 +32,9 @@ I have other interest too, like:
 * Climbing
 * Playing Music
 * travelling
+
+Here are some tasks for you to complete:
+
+- [x] Read this page
+- [x] Click the links
+- [ ] Have a great day
