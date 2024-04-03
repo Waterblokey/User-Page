@@ -29,7 +29,7 @@ The top 3 things I like about programming are
 3. Collaborating with Likeminded Individs
 
 I enjoy it, so I often look like this:
-![Guy who really enjoys programming](https://www.pexels.com/photo/happy-man-sitting-with-laptop-and-juice-in-park-3765030/)
+![Guy who really enjoys programming]([https://www.pexels.com/photo/happy-man-sitting-with-laptop-and-juice-in-park-3765030/](https://images.pexels.com/photos/3765030/pexels-photo-3765030.jpeg))
 
 I have other interest too, like:
 
