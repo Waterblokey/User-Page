@@ -22,7 +22,7 @@ git push --set-upstream origin add-read-me
 ```
 [You can see the whole thing here!](README.md)
 
-### [If you would like to return to the top, click the link!](#creating-this-repo)
+### [If you would like to return to the top, click the link!](#Creating this repo)
 The top 3 things I like about programming are
 1. Problem Solving
 2. Learning New Things
