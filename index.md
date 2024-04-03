@@ -22,14 +22,12 @@ git add README.md
 git commit -m "Update readme file"
 git push --set-upstream origin add-read-me
 ```
-[You can see the whole thing here!](README.md)
+[You can see the whole thing here!](screenshots)
 
 The top 3 things I like about programming are
 1. Problem Solving
 2. Learning New Things
 3. Collaborating with Likeminded Individuals
-
-   ![image](https://github.com/Waterblokey/User-Page/assets/118576768/3283432d-f7f3-4b21-a2d9-4553a68104b0)
 
 
 I enjoy it, so I often look like this:
