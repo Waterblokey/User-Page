@@ -1,2 +1,1 @@
-IMAGE!
-![image](pexels-andrea-piacquadio-3765030.jpg)
+https://cdn.discordapp.com/attachments/716187295031492679/1225136462299664516/image.png?ex=6620083e&is=660d933e&hm=781e9233ee4b8f95c1df2f65f1a9064062b0984844b2342c89f239ab85a92f17&
