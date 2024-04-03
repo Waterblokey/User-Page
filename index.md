@@ -12,7 +12,7 @@ But a wise man named Benjamin Cardozo once said:
 >the victory cheap and hollow were it not for the rigor of the game
 
 
-## [Creating this repo](#creating)
+## Creating this repo
 
 I had to do a few commands such as:
 ```
@@ -22,7 +22,6 @@ git push --set-upstream origin add-read-me
 ```
 [You can see the whole thing here!](README.md)
 
-### [If you would like to return to the top, click the link!](#creating)
 The top 3 things I like about programming are
 1. Problem Solving
 2. Learning New Things
