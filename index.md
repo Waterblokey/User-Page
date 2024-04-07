@@ -4,7 +4,7 @@
 
 ~~Sometimes I make mistakes when writing~~
 
-But a wise man named Benjamin Cardozo once said:
+But a *wise* man named Benjamin Cardozo once said:
 
 >In the end the great truth will have been learned that
 >the quest is greater than what is sought, the effort
